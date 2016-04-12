@@ -36,6 +36,45 @@
 		94899F411CBD22B3000533EF /* PNChartKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94899F3A1CBD22B3000533EF /* PNChartKit.framework */; };
 		94899F421CBD22B3000533EF /* PNChartKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 94899F3A1CBD22B3000533EF /* PNChartKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		94899F481CBD2357000533EF /* UICountingLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 94899F471CBD2357000533EF /* UICountingLabel.m */; };
+		94899F501CBD2D2C000533EF /* UICountingLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899F461CBD2357000533EF /* UICountingLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F511CBD2D2C000533EF /* UICountingLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 94899F471CBD2357000533EF /* UICountingLabel.m */; };
+		94899F521CBD2D2C000533EF /* PNScatterChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A2922821A423FB300A42BC4 /* PNScatterChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F531CBD2D2C000533EF /* PNScatterChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A2922831A423FB300A42BC4 /* PNScatterChart.m */; };
+		94899F541CBD2D2C000533EF /* PNScatterChartData.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A2922841A423FB300A42BC4 /* PNScatterChartData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F551CBD2D2C000533EF /* PNScatterChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A2922851A423FB300A42BC4 /* PNScatterChartData.m */; };
+		94899F561CBD2D2C000533EF /* PNScatterChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A2922861A423FB300A42BC4 /* PNScatterChartDataItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F571CBD2D2C000533EF /* PNScatterChartDataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A2922871A423FB300A42BC4 /* PNScatterChartDataItem.m */; };
+		94899F581CBD2D2C000533EF /* PNChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FE15DE6190BB014004129F5 /* PNChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F591CBD2D2C000533EF /* PNChartDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FE15DE7190BB014004129F5 /* PNChartDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F5A1CBD2D2C000533EF /* PNChartLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FE15DE8190BB014004129F5 /* PNChartLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F5B1CBD2D2C000533EF /* PNChartLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FE15DE9190BB014004129F5 /* PNChartLabel.m */; };
+		94899F5C1CBD2D2C000533EF /* PNColor.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FE15DED190BB014004129F5 /* PNColor.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F5D1CBD2D2C000533EF /* PNColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FE15DEE190BB014004129F5 /* PNColor.m */; };
+		94899F5E1CBD2D2C000533EF /* PNBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 91177EC8198DFAC400017E27 /* PNBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F5F1CBD2D2C000533EF /* PNBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 91177EC9198DFAC400017E27 /* PNBar.m */; };
+		94899F601CBD2D2C000533EF /* PNBarChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 91177ECA198DFAC400017E27 /* PNBarChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F611CBD2D2C000533EF /* PNBarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C9B4AA21B05BBCB00093EBE /* PNBarChart.m */; };
+		94899F621CBD2D2C000533EF /* PNCircleChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 91177ECC198DFAC400017E27 /* PNCircleChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F631CBD2D2C000533EF /* PNCircleChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 91177ECD198DFAC400017E27 /* PNCircleChart.m */; };
+		94899F641CBD2D2C000533EF /* PNLineChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 91177ECE198DFAC400017E27 /* PNLineChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F651CBD2D2C000533EF /* PNLineChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 91177ECF198DFAC400017E27 /* PNLineChart.m */; };
+		94899F661CBD2D2C000533EF /* PNLineChartData.h in Headers */ = {isa = PBXBuildFile; fileRef = 91177ED0198DFAC400017E27 /* PNLineChartData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F671CBD2D2C000533EF /* PNLineChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = 91177ED1198DFAC400017E27 /* PNLineChartData.m */; };
+		94899F681CBD2D2C000533EF /* PNLineChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 91177ED2198DFAC400017E27 /* PNLineChartDataItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F691CBD2D2C000533EF /* PNLineChartDataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 91177ED3198DFAC400017E27 /* PNLineChartDataItem.m */; };
+		94899F6A1CBD2D2C000533EF /* PNPieChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 91177ED4198DFAC400017E27 /* PNPieChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F6B1CBD2D2C000533EF /* PNPieChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 91177ED5198DFAC400017E27 /* PNPieChart.m */; };
+		94899F6C1CBD2D2C000533EF /* PNPieChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 91177ED6198DFAC400017E27 /* PNPieChartDataItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F6D1CBD2D2C000533EF /* PNPieChartDataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 91177ED7198DFAC400017E27 /* PNPieChartDataItem.m */; };
+		94899F6E1CBD2D2C000533EF /* PNGenericChart.h in Headers */ = {isa = PBXBuildFile; fileRef = A9C75FA41A9F1DA900A54638 /* PNGenericChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F6F1CBD2D2C000533EF /* PNGenericChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C75FA51A9F1DA900A54638 /* PNGenericChart.m */; };
+		94899F701CBD2D2C000533EF /* PNRadarChart.h in Headers */ = {isa = PBXBuildFile; fileRef = ABD79D001B43700800A7C300 /* PNRadarChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F711CBD2D2C000533EF /* PNRadarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = ABD79D011B43700800A7C300 /* PNRadarChart.m */; };
+		94899F721CBD2D2C000533EF /* PNRadarChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = ABD79D031B43CF8000A7C300 /* PNRadarChartDataItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F731CBD2D2C000533EF /* PNRadarChartDataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = ABD79D041B43CF8000A7C300 /* PNRadarChartDataItem.m */; };
+		94899F741CBD2D4B000533EF /* PCAppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 0AF7A876182AA9F6003645C4 /* PCAppDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94899F751CBD2D4B000533EF /* PCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AF7A877182AA9F6003645C4 /* PCAppDelegate.m */; };
+		94899F761CBD2D7E000533EF /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34E17F211C2464FB00DBC20B /* Default-568h@2x.png */; };
 		9FA23B10184A5944002DBBA4 /* PCChartsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FA23B0F184A5944002DBBA4 /* PCChartsTableViewController.m */; };
 		9FE15DF8190BB014004129F5 /* PNChartLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FE15DE9190BB014004129F5 /* PNChartLabel.m */; };
 		9FE15DFA190BB014004129F5 /* PNColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FE15DEE190BB014004129F5 /* PNColor.m */; };
@@ -315,6 +354,26 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94899F6A1CBD2D2C000533EF /* PNPieChart.h in Headers */,
+				94899F701CBD2D2C000533EF /* PNRadarChart.h in Headers */,
+				94899F5E1CBD2D2C000533EF /* PNBar.h in Headers */,
+				94899F641CBD2D2C000533EF /* PNLineChart.h in Headers */,
+				94899F5C1CBD2D2C000533EF /* PNColor.h in Headers */,
+				94899F581CBD2D2C000533EF /* PNChart.h in Headers */,
+				94899F6C1CBD2D2C000533EF /* PNPieChartDataItem.h in Headers */,
+				94899F601CBD2D2C000533EF /* PNBarChart.h in Headers */,
+				94899F591CBD2D2C000533EF /* PNChartDelegate.h in Headers */,
+				94899F521CBD2D2C000533EF /* PNScatterChart.h in Headers */,
+				94899F721CBD2D2C000533EF /* PNRadarChartDataItem.h in Headers */,
+				94899F621CBD2D2C000533EF /* PNCircleChart.h in Headers */,
+				94899F5A1CBD2D2C000533EF /* PNChartLabel.h in Headers */,
+				94899F561CBD2D2C000533EF /* PNScatterChartDataItem.h in Headers */,
+				94899F6E1CBD2D2C000533EF /* PNGenericChart.h in Headers */,
+				94899F681CBD2D2C000533EF /* PNLineChartDataItem.h in Headers */,
+				94899F661CBD2D2C000533EF /* PNLineChartData.h in Headers */,
+				94899F541CBD2D2C000533EF /* PNScatterChartData.h in Headers */,
+				94899F741CBD2D4B000533EF /* PCAppDelegate.h in Headers */,
+				94899F501CBD2D2C000533EF /* UICountingLabel.h in Headers */,
 				94899F3D1CBD22B3000533EF /* PNChartKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -440,6 +499,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94899F761CBD2D7E000533EF /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,6 +547,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94899F651CBD2D2C000533EF /* PNLineChart.m in Sources */,
+				94899F5B1CBD2D2C000533EF /* PNChartLabel.m in Sources */,
+				94899F631CBD2D2C000533EF /* PNCircleChart.m in Sources */,
+				94899F751CBD2D4B000533EF /* PCAppDelegate.m in Sources */,
+				94899F711CBD2D2C000533EF /* PNRadarChart.m in Sources */,
+				94899F5D1CBD2D2C000533EF /* PNColor.m in Sources */,
+				94899F5F1CBD2D2C000533EF /* PNBar.m in Sources */,
+				94899F731CBD2D2C000533EF /* PNRadarChartDataItem.m in Sources */,
+				94899F691CBD2D2C000533EF /* PNLineChartDataItem.m in Sources */,
+				94899F511CBD2D2C000533EF /* UICountingLabel.m in Sources */,
+				94899F611CBD2D2C000533EF /* PNBarChart.m in Sources */,
+				94899F6D1CBD2D2C000533EF /* PNPieChartDataItem.m in Sources */,
+				94899F551CBD2D2C000533EF /* PNScatterChartData.m in Sources */,
+				94899F671CBD2D2C000533EF /* PNLineChartData.m in Sources */,
+				94899F6F1CBD2D2C000533EF /* PNGenericChart.m in Sources */,
+				94899F571CBD2D2C000533EF /* PNScatterChartDataItem.m in Sources */,
+				94899F6B1CBD2D2C000533EF /* PNPieChart.m in Sources */,
+				94899F531CBD2D2C000533EF /* PNScatterChart.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
