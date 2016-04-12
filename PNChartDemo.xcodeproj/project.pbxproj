@@ -70,8 +70,6 @@
 		9489A0441CBD3823000533EF /* PNLineChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FC51CBD32C4000533EF /* PNLineChartDataItem.h */; };
 		9489A0451CBD3823000533EF /* PNPieChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FC71CBD32C4000533EF /* PNPieChart.h */; };
 		9489A0461CBD3823000533EF /* PNPieChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FC91CBD32C4000533EF /* PNPieChartDataItem.h */; };
-		9489A0471CBD3823000533EF /* PNRadarChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FCB1CBD32C4000533EF /* PNRadarChart.h */; };
-		9489A0481CBD3823000533EF /* PNRadarChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FCD1CBD32C4000533EF /* PNRadarChartDataItem.h */; };
 		9489A0491CBD3823000533EF /* PNScatterChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FCF1CBD32C4000533EF /* PNScatterChart.h */; };
 		9489A04A1CBD3823000533EF /* PNScatterChartData.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FD11CBD32C4000533EF /* PNScatterChartData.h */; };
 		9489A04B1CBD3823000533EF /* PNScatterChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FD31CBD32C4000533EF /* PNScatterChartDataItem.h */; };
@@ -365,8 +363,6 @@
 				9489A0441CBD3823000533EF /* PNLineChartDataItem.h in Headers */,
 				9489A0451CBD3823000533EF /* PNPieChart.h in Headers */,
 				9489A0461CBD3823000533EF /* PNPieChartDataItem.h in Headers */,
-				9489A0471CBD3823000533EF /* PNRadarChart.h in Headers */,
-				9489A0481CBD3823000533EF /* PNRadarChartDataItem.h in Headers */,
 				9489A0491CBD3823000533EF /* PNScatterChart.h in Headers */,
 				9489A04A1CBD3823000533EF /* PNScatterChartData.h in Headers */,
 				9489A04B1CBD3823000533EF /* PNScatterChartDataItem.h in Headers */,
