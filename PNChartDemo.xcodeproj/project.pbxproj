@@ -57,6 +57,25 @@
 		9489A0341CBD360C000533EF /* PNScatterChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = 94899FD21CBD32C4000533EF /* PNScatterChartData.m */; };
 		9489A0361CBD360C000533EF /* UICountingLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 94899FD61CBD32C4000533EF /* UICountingLabel.m */; };
 		9489A0371CBD3635000533EF /* PNScatterChartDataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 94899FD41CBD32C4000533EF /* PNScatterChartDataItem.m */; };
+		9489A03A1CBD3822000533EF /* PNBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FB31CBD32C4000533EF /* PNBar.h */; };
+		9489A03B1CBD3822000533EF /* PNBarChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FB51CBD32C4000533EF /* PNBarChart.h */; };
+		9489A03C1CBD3822000533EF /* PNChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FB71CBD32C4000533EF /* PNChart.h */; };
+		9489A03D1CBD3822000533EF /* PNChartDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FB81CBD32C4000533EF /* PNChartDelegate.h */; };
+		9489A03E1CBD3822000533EF /* PNChartLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FB91CBD32C4000533EF /* PNChartLabel.h */; };
+		9489A03F1CBD3822000533EF /* PNCircleChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FBB1CBD32C4000533EF /* PNCircleChart.h */; };
+		9489A0401CBD3822000533EF /* PNColor.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FBD1CBD32C4000533EF /* PNColor.h */; };
+		9489A0411CBD3822000533EF /* PNGenericChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FBF1CBD32C4000533EF /* PNGenericChart.h */; };
+		9489A0421CBD3823000533EF /* PNLineChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FC11CBD32C4000533EF /* PNLineChart.h */; };
+		9489A0431CBD3823000533EF /* PNLineChartData.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FC31CBD32C4000533EF /* PNLineChartData.h */; };
+		9489A0441CBD3823000533EF /* PNLineChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FC51CBD32C4000533EF /* PNLineChartDataItem.h */; };
+		9489A0451CBD3823000533EF /* PNPieChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FC71CBD32C4000533EF /* PNPieChart.h */; };
+		9489A0461CBD3823000533EF /* PNPieChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FC91CBD32C4000533EF /* PNPieChartDataItem.h */; };
+		9489A0471CBD3823000533EF /* PNRadarChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FCB1CBD32C4000533EF /* PNRadarChart.h */; };
+		9489A0481CBD3823000533EF /* PNRadarChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FCD1CBD32C4000533EF /* PNRadarChartDataItem.h */; };
+		9489A0491CBD3823000533EF /* PNScatterChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FCF1CBD32C4000533EF /* PNScatterChart.h */; };
+		9489A04A1CBD3823000533EF /* PNScatterChartData.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FD11CBD32C4000533EF /* PNScatterChartData.h */; };
+		9489A04B1CBD3823000533EF /* PNScatterChartDataItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FD31CBD32C4000533EF /* PNScatterChartDataItem.h */; };
+		9489A04C1CBD3823000533EF /* UICountingLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 94899FD51CBD32C4000533EF /* UICountingLabel.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -333,6 +352,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				9489A0101CBD34E3000533EF /* PNChartKit.h in Headers */,
+				9489A03A1CBD3822000533EF /* PNBar.h in Headers */,
+				9489A03B1CBD3822000533EF /* PNBarChart.h in Headers */,
+				9489A03C1CBD3822000533EF /* PNChart.h in Headers */,
+				9489A03D1CBD3822000533EF /* PNChartDelegate.h in Headers */,
+				9489A03E1CBD3822000533EF /* PNChartLabel.h in Headers */,
+				9489A03F1CBD3822000533EF /* PNCircleChart.h in Headers */,
+				9489A0401CBD3822000533EF /* PNColor.h in Headers */,
+				9489A0411CBD3822000533EF /* PNGenericChart.h in Headers */,
+				9489A0421CBD3823000533EF /* PNLineChart.h in Headers */,
+				9489A0431CBD3823000533EF /* PNLineChartData.h in Headers */,
+				9489A0441CBD3823000533EF /* PNLineChartDataItem.h in Headers */,
+				9489A0451CBD3823000533EF /* PNPieChart.h in Headers */,
+				9489A0461CBD3823000533EF /* PNPieChartDataItem.h in Headers */,
+				9489A0471CBD3823000533EF /* PNRadarChart.h in Headers */,
+				9489A0481CBD3823000533EF /* PNRadarChartDataItem.h in Headers */,
+				9489A0491CBD3823000533EF /* PNScatterChart.h in Headers */,
+				9489A04A1CBD3823000533EF /* PNScatterChartData.h in Headers */,
+				9489A04B1CBD3823000533EF /* PNScatterChartDataItem.h in Headers */,
+				9489A04C1CBD3823000533EF /* UICountingLabel.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
