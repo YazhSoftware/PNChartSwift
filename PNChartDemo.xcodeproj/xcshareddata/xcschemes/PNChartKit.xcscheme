@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9489A0FF1CBE1299000533EF"
+               BlueprintIdentifier = "9489A13B1CBE1864000533EF"
                BuildableName = "PNChartKit.framework"
                BlueprintName = "PNChartKit"
                ReferencedContainer = "container:PNChartDemo.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9489A0FF1CBE1299000533EF"
+            BlueprintIdentifier = "9489A13B1CBE1864000533EF"
             BuildableName = "PNChartKit.framework"
             BlueprintName = "PNChartKit"
             ReferencedContainer = "container:PNChartDemo.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9489A0FF1CBE1299000533EF"
+            BlueprintIdentifier = "9489A13B1CBE1864000533EF"
             BuildableName = "PNChartKit.framework"
             BlueprintName = "PNChartKit"
             ReferencedContainer = "container:PNChartDemo.xcodeproj">
